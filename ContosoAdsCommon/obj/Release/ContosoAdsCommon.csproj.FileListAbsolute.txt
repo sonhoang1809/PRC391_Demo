@@ -1,0 +1,12 @@
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll.config
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\ContosoAdsCommon.pdb
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\EntityFramework.dll
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\EntityFramework.xml
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\obj\Release\ContosoAdsCommon.csproj.CoreCompileInputs.cache
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\obj\Release\ContosoAdsCommon.csproj.CopyComplete
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\obj\Release\ContosoAdsCommon.dll
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\obj\Release\ContosoAdsCommon.pdb
+C:\Users\sonho\Desktop\Study\Cloud Computing\Assignment 2\ContosoAdsCloudServices-master\ContosoAdsCloudServices-master\ContosoAdsCommon\obj\Release\ContosoAdsCommon.csprojAssemblyReference.cache

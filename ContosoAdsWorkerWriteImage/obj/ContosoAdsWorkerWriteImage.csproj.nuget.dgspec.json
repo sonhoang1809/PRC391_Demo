@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsWorkerWriteImage\\ContosoAdsWorkerWriteImage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsCommon\\ContosoAdsCommon.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsCommon\\ContosoAdsCommon.csproj",
+        "projectName": "ContosoAdsCommon",
+        "projectPath": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsCommon\\ContosoAdsCommon.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsWorkerWriteImage\\ContosoAdsWorkerWriteImage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsWorkerWriteImage\\ContosoAdsWorkerWriteImage.csproj",
+        "projectName": "ContosoAdsWorkerWriteImage",
+        "projectPath": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsWorkerWriteImage\\ContosoAdsWorkerWriteImage.csproj",
+        "packagesPath": "C:\\Users\\sonho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsWorkerWriteImage\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sonho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsCommon\\ContosoAdsCommon.csproj": {
+                "projectPath": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsCommon\\ContosoAdsCommon.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.Azure.KeyVault.Core": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            },
+            "Microsoft.Data.Edm": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "Microsoft.Data.OData": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "Microsoft.Data.Services.Client": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Microsoft.Rest.ClientRuntime": {
+              "target": "Package",
+              "version": "[2.3.22, )"
+            },
+            "Microsoft.Rest.ClientRuntime.Azure": {
+              "target": "Package",
+              "version": "[3.3.19, )"
+            },
+            "Microsoft.WindowsAzure.ConfigurationManager": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Spatial": {
+              "target": "Package",
+              "version": "[5.8.4, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

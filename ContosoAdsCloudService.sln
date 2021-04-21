@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ContosoAdsCloudService", "ContosoAdsCloudService\ContosoAdsCloudService.ccproj", "{8B381CFD-38C8-423B-8921-7CD7D277BE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsWeb", "ContosoAdsWeb\ContosoAdsWeb.csproj", "{6E2FDC04-F923-44FB-96F4-F8C7E4F4655D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsWorker", "ContosoAdsWorker\ContosoAdsWorker.csproj", "{A761A803-0A2F-404B-9CBE-F758BBA9DC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsCommon", "ContosoAdsCommon\ContosoAdsCommon.csproj", "{9C3CDE4D-6E52-4C97-8F7F-A2CC51004C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAdsWorkerWriteImage", "ContosoAdsWorkerWriteImage\ContosoAdsWorkerWriteImage.csproj", "{3E8FEC04-5484-47A0-8DC1-AEA3099E1209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerWriteImage", "WorkerWriteImage\WorkerWriteImage.csproj", "{091BAE16-B9B7-4160-A6D0-78276BA993B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B381CFD-38C8-423B-8921-7CD7D277BE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B381CFD-38C8-423B-8921-7CD7D277BE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B381CFD-38C8-423B-8921-7CD7D277BE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B381CFD-38C8-423B-8921-7CD7D277BE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2FDC04-F923-44FB-96F4-F8C7E4F4655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2FDC04-F923-44FB-96F4-F8C7E4F4655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2FDC04-F923-44FB-96F4-F8C7E4F4655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2FDC04-F923-44FB-96F4-F8C7E4F4655D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A761A803-0A2F-404B-9CBE-F758BBA9DC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A761A803-0A2F-404B-9CBE-F758BBA9DC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A761A803-0A2F-404B-9CBE-F758BBA9DC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A761A803-0A2F-404B-9CBE-F758BBA9DC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3CDE4D-6E52-4C97-8F7F-A2CC51004C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3CDE4D-6E52-4C97-8F7F-A2CC51004C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3CDE4D-6E52-4C97-8F7F-A2CC51004C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3CDE4D-6E52-4C97-8F7F-A2CC51004C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8FEC04-5484-47A0-8DC1-AEA3099E1209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8FEC04-5484-47A0-8DC1-AEA3099E1209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8FEC04-5484-47A0-8DC1-AEA3099E1209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8FEC04-5484-47A0-8DC1-AEA3099E1209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091BAE16-B9B7-4160-A6D0-78276BA993B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091BAE16-B9B7-4160-A6D0-78276BA993B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091BAE16-B9B7-4160-A6D0-78276BA993B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091BAE16-B9B7-4160-A6D0-78276BA993B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C0C901-365C-438C-BC08-B822C6673BBF}
+	EndGlobalSection
+EndGlobal

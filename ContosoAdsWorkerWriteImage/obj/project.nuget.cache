@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "84ODojfwBY7/x4HkGHJscThLrZoaZZI75ViaW7yrbMNh4scL4h0gBVLfFrFt7JzXJaDpCPnIFf+bXAr5zRxxoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonho\\Desktop\\Study\\Cloud Computing\\Assignment 2\\ContosoAdsCloudServices-master\\ContosoAdsCloudServices-master\\ContosoAdsWorkerWriteImage\\ContosoAdsWorkerWriteImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonho\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.azure.keyvault.core\\3.0.5\\microsoft.azure.keyvault.core.3.0.5.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.data.edm\\5.8.4\\microsoft.data.edm.5.8.4.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.data.odata\\5.8.4\\microsoft.data.odata.5.8.4.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.data.services.client\\5.8.4\\microsoft.data.services.client.5.8.4.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.net.compilers\\3.8.0\\microsoft.net.compilers.3.8.0.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.22\\microsoft.rest.clientruntime.2.3.22.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.19\\microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\3.2.3\\microsoft.windowsazure.configurationmanager.3.2.3.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\system.spatial\\5.8.4\\system.spatial.5.8.4.nupkg.sha512",
+    "C:\\Users\\sonho\\.nuget\\packages\\windowsazure.storage\\9.3.3\\windowsazure.storage.9.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
